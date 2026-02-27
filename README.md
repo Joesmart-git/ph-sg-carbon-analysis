@@ -45,10 +45,11 @@ DIVIDE(
 ```
 
 ## Repository Structure
-/data - Contains the dataset used for the Power BI model.
-Project Diverging Paths Carbon Emissions in the Philippines vs Singapore.pbix - The core interactive Power BI file.
+* `/data` - Contains the dataset used for the Power BI model.
+* `Project Diverging Paths Carbon Emissions in the Philippines vs Singapore.pbix` - The core interactive Power BI file.
 
 ## Let's Connect
 If you're looking for a Data Analyst who can turn complex datasets into clear, actionable business insights, let's connect.
-Email: joesmartverdilloapan@gmail.com
-LinkedIn: www.linkedin.com/in/joesmart-apan-7735ab215
+
+* **Email:** joesmartverdilloapan@gmail.com 
+* **LinkedIn:** [Joesmart V. Apan](https://www.linkedin.com/in/joesmart-apan-7735ab215)
