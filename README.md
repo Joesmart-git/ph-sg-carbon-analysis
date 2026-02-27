@@ -1,6 +1,6 @@
 # Diverging Paths: Carbon Emissions in the Philippines vs. Singapore
 
-[![View Visual Case Study on Notion](https://img.shields.io/badge/View_Visual_Case_Study-Notion-black?logo=notion)](https://whispering-crater-183.notion.site/Project-Diverging-Paths-Carbon-Emissions-in-the-Philippines-vs-Singapore-313e54702f0b80d6b704cf2b001910a6?source=copy_link) *(Note: Paste your Notion link replacing the # inside these parentheses)*
+[![View Visual Case Study on Notion](https://img.shields.io/badge/View_Visual_Case_Study-Notion-black?logo=notion)](https://whispering-crater-183.notion.site/Project-Diverging-Paths-Carbon-Emissions-in-the-Philippines-vs-Singapore-313e54702f0b80d6b704cf2b001910a6?source=copy_link) 
 
 ## Project Overview
 [cite_start]This project analyzes and compares the carbon emission drivers between a lower-middle-income archipelago (The Philippines) and a high-income city-state (Singapore)[cite: 6]. 
