@@ -45,8 +45,8 @@ DIVIDE(
 ```
 
 ## Repository Structure
-* `/data` - Contains the dataset used for the Power BI model.
-* `Project Diverging Paths Carbon Emissions in the Philippines vs Singapore.pbix` - The core interactive Power BI file.
+* [Expanded SEA Dataset (PHP SG).xlsx](Expanded%20SEA%20Dataset%20(PHP%20SG).xlsx) - The dataset used for the Power BI model.
+* [Project Diverging Paths Carbon Emissions in the Philippines vs Singapore.pbix](Project%20Diverging%20Paths%20Carbon%20Emissions%20in%20the%20Philippines%20vs%20Singapore.pbix) - The core interactive Power BI file.
 
 ## Let's Connect
 If you're looking for a Data Analyst who can turn complex datasets into clear, actionable business insights, let's connect.
