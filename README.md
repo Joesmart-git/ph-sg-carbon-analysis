@@ -33,7 +33,7 @@ CALCULATE(
 )
 ```
 
-2. Safe Divide for Per-Capita Analysis
+### 2. Safe Divide for Per-Capita Analysis
 Comparing a massive archipelago to a city-state requires per-capita analysis. To prevent division-by-zero errors when multiplying raw tonnage by population, a safe divide measure was implemented.
 ```
 CO2 per Capita (Tonnes) = 
@@ -44,14 +44,11 @@ DIVIDE(
 )
 ```
 
-Repository Structure
+## Repository Structure
 /data - Contains the dataset used for the Power BI model.
-
 Project Diverging Paths Carbon Emissions in the Philippines vs Singapore.pbix - The core interactive Power BI file.
 
-Let's Connect
+## Let's Connect
 If you're looking for a Data Analyst who can turn complex datasets into clear, actionable business insights, let's connect.
-
 Email: joesmartverdilloapan@gmail.com
-
-LinkedIn: (Don't forget to paste your LinkedIn URL here!)
+LinkedIn: www.linkedin.com/in/joesmart-apan-7735ab215
