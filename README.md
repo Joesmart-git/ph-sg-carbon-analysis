@@ -5,8 +5,11 @@
 ## Project Overview
 This project analyzes and compares the carbon emission drivers between a lower-middle-income archipelago (The Philippines) and a high-income city-state (Singapore). 
 <img width="1289" height="1070" alt="image" src="https://github.com/user-attachments/assets/4c80e2e8-e925-4652-9fa8-598ed570bb8d" />
-
 By analyzing historical emissions data alongside population and economic indicators, this project bridges raw environmental data with strategic insights regarding how national income brackets dictate energy transitions.
+
+### Data Sourcing & Provenance ###
+The dataset was sourced from Our World in Data, specifically focusing on historical CO2 emissions, energy mix transitions, and macro-population metrics for Southeast Asia.
+Because the data originated from a highly credible, standardized pipeline, extensive pre-processing and wrangling were not required. Instead, the focus of this pipeline was dedicated to data modeling and DAX optimization—ensuring that semi-additive measures (like historical population) and per-capita ratios computed accurately across dynamically filtered timelines and income brackets.
 
 * **Tools Used:** Power BI, DAX
 * **Role:** Data Analyst
