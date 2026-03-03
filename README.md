@@ -22,23 +22,23 @@ The analysis revealed two primary drivers of carbon emission divergence:
 * **Conclusion:** Population size acts as a baseline multiplier for emissions, but a nation's economic bracket ultimately dictates its carbon sources.
 
 ## Executive Dashboard and Key Findings ##
-### 1. What's the highest year for Carbon Emissions? ###
+### 1. The Philippines Surged to a 2018 Peak While Singapore Plateaued ###
 The Philippines' emissions have surged continuously, peaking in 2018. Singapore, conversely, saw its emissions peak in 2015 and have since plateaued or slightly declined.
 <img width="1259" height="553" alt="image1" src="https://github.com/user-attachments/assets/4f59fcb9-021d-495c-9a7c-cbd6d28f1cdf" />
 
-### How's the trend in population for Philippines? For Singapore? ###
+### 2. Massive Population Disparity Drives the Baseline Context ###
 The Philippines is experiencing rapid, compounding population growth, surging well past 100 million. Singapore's population is also growing steadily, but on a vastly smaller, more controlled scale of around 6 million. This massive difference in sheer human volume is the critical context needed before comparing their total carbon footprints
 <img width="1138" height="448" alt="image2" src="https://github.com/user-attachments/assets/d4a03c14-dd8f-46e0-92a1-87a52e6930f5" />
 
-### 3. Is population a big factor for Carbon Emissions? ###
+### 3. Population Acts as a Baseline Multiplier for CO2 Emissions ###
 Yes. Both countries show a strong, positive correlation between population growth and total CO2 emissions, indicating that headcount acts as a baseline multiplier for a nation's carbon footprint.
 <img width="1442" height="1073" alt="image3" src="https://github.com/user-attachments/assets/2c86b66c-8ed3-4ba1-9d68-fbe4100e6725" />
 
-### 4. How's the performance of Philippines and Singapore in comparison to the world? ###
+### 4. Diverging Trajectories on the Global Stage ###
 The two nations are on entirely diverging trajectories on the global stage. The Philippines is capturing a rapidly growing share of total global emissions (surging past 1.5%), indicating highly carbon-intensive industrial growth. Conversely, Singapore's share of global emissions peaked in the mid-1990s and has steadily declined since, suggesting a maturing economy that is successfully decoupling its wealth generation from raw carbon output.
 <img width="1271" height="729" alt="image4" src="https://github.com/user-attachments/assets/c53aceea-bac6-4a70-8fe9-d403c3adf94a" />
 
-### 5. How do their emission sources compare, and does income play a role? ###
+### 5. Economic Brackets Dictate Fuel Sources (Coal vs. Gas) ###
 This is where the two countries diverge. The Philippines (Lower-Middle Income) relies heavily on Coal to fuel its growth. Singapore (High Income) relies entirely on Oil and Gas, mirroring the broader global trend where high-income nations abandon coal for gas.
 <img width="1631" height="1073" alt="image5" src="https://github.com/user-attachments/assets/2721c8ba-cdda-46a0-b764-01141f008ff0" />
 <img width="1642" height="647" alt="image6" src="https://github.com/user-attachments/assets/4526f6cb-3544-4188-8735-6e842889e150" />
